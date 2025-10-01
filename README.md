@@ -1,5 +1,9 @@
 # 👋 Hello World, I'm Murilo Ferreira
 
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4OW10YXVkM3RocHh5dDFjbjVkNmJlZmh1MDNnNGFiMG02cG1wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2un1t60QJoSK1oiPop/giphy.gif" alt="Cat" />
+</div>
+
 ---
 
 ## 🌍 About Me
@@ -20,9 +24,8 @@ I am passionate about technology and nature, combining Biological Sciences and S
 
 ## 💻 Technologies & Tools
 
-| Logos | Gatinho |
-|-------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
@@ -35,10 +38,7 @@ I am passionate about technology and nature, combining Biological Sciences and S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" /> 
-| <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4OW10YXVkM3RocHh5dDFjbjVkNmJlZmh1MDNnNGFiMG02cG1wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2un1t60QJoSK1oiPop/giphy.gif" height="150" /> |
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
 </div>
 
 ## 🚀 Projects in Development
