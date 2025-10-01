@@ -1,50 +1,72 @@
-# 👨‍💻 Murilo Ferreira  
+# 👋 Hello World, I'm Murilo Ferreira
 
-🎓 Estudante de **Ciências Biológicas** e **Análise e Desenvolvimento de Sistemas**  
-🌱 Estagiário em **Educação Ambiental**  
-💻 Em formação para atuar como **Desenvolvedor Fullstack**  
+![Cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4OW10YXVkM3RocHh5dDFjbjVkNmJlZmh1MDNnNGFiMG02cG1wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2un1t60QJoSK1oiPop/giphy.gif)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🌍 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+I am passionate about technology and nature, combining Biological Sciences and Systems Development to create innovative, educational solutions and others.
 
----
-
-## 📌 Projetos em Destaque
-
-- 🌙 **Lunaris** – Aplicativo com calendário lunar e biblioteca interativa  
-- 🔬 Criei um leitor de arquivo .FASTA que identifica material genético usando BioPython  
-- 🧪 Projetos acadêmicos em **biologia** e **tecnologia**  
+- 🎓 **Education:**
+  - Biological Sciences (in progress)
+  - Systems Analysis and Development (in progress)
+  - Technical Degree in Informatics (3 years – technical high school)
+- 💼 **Experience:**
+  - Environmental Education Intern
+- 🌐 **Languages:**
+  - Intermediate and Technical English (reading and writing)
+  - Basic Spanish (reading)
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 💻 Technologies & Tools
 
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloFerreira&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFerreira&layout=compact&theme=github_dark)  
+<div align="center">
+  <img src="https://img.shields.io/badge/Portugol-FF7F50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portugol" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
 ---
 
-## 🎯 Objetivos  
+## 🚀 Projects in Development
 
-Atualmente, estou aprofundando meus estudos em **UI/UX, front-end e back-end**, buscando me tornar **desenvolvedor fullstack** e contribuir em projetos que unam **ciência e tecnologia**.  
+### EcoPop  
+🌱 A population growth simulator that combines Biology concepts with programming to create interactive and educational models.  
+
+### Lunaris  
+🌙 An app featuring a mystical calendar and interactive library, blending intuitive design with innovative features for mysticism enthusiasts.  
 
 ---
 
-## 📫 Contato  
+## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-eduardo-ferreira-b792441b5)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriloeferreira@gmail.com)
+<div align="center">
+  <a href="mailto:muriloferreira@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="www.linkedin.com/in/murilo-eduardo-ferreira-b792441b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MuriloFerreira-CSS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+> "The intersection between science and technology is where I want to leave my mark."  
+> — Murilo Ferreira
+
+---
+
+✨ Thanks for visiting my profile! Let's build the future together. ✨
