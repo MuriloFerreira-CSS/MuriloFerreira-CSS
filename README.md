@@ -11,7 +11,6 @@
 I am passionate about technology and nature, combining Biological Sciences and Systems Development to create innovative, educational solutions and others.
 
 - 🎓 **Education:**
-  - Biological Sciences (in progress)
   - Systems Analysis and Development (in progress)
   - Technical Degree in Informatics (3 years – technical high school)
 - 💼 **Experience:**
@@ -40,14 +39,6 @@ I am passionate about technology and nature, combining Biological Sciences and S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
 </div>
-
-## 🚀 Projects in Development
-
-### EcoPop  
-🌱 A population growth simulator that combines Biology concepts with programming to create interactive and educational models.  
-
-### Lunaris  
-🌙 An app featuring a mystical calendar and interactive library, blending intuitive design with innovative features for mysticism enthusiasts.  
 
 ---
 
